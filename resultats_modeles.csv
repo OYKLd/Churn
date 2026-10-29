@@ -1,0 +1,4 @@
+Modèle,ROC-AUC,Rappel,Précision,F1
+Gradient Boosting,0.839,0.529,0.641,0.58
+Régression logistique,0.835,0.797,0.49,0.607
+Random Forest,0.833,0.786,0.514,0.622
